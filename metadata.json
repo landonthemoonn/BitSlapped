@@ -1,0 +1,7 @@
+{
+  "name": "BitSlapped",
+  "description": "Upload a selfie and choose a drag persona to be transformed into a beautiful, fierce drag queen using AI. This app celebrates the art of drag with an 8-bit glam arcade aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
